@@ -1,0 +1,8 @@
+@import "../../../assets/scss/global/main";
+.main-content {
+  display: flex;
+  flex-direction: column;
+  min-height: em(350);
+  height: calc(100vh - 150px);
+  padding: em(20);
+}
