@@ -1,0 +1,11 @@
+@import "../../../../assets/scss/global/main";
+.footer {
+  padding-right: em(20);
+  height: 50px;
+  background-color: $color-dark;
+  color: $color-white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+}
